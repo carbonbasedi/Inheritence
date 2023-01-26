@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\bin\Debug\net6.0\InheritenceTask.exe
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\bin\Debug\net6.0\InheritenceTask.deps.json
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\bin\Debug\net6.0\InheritenceTask.runtimeconfig.json
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\bin\Debug\net6.0\InheritenceTask.dll
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\bin\Debug\net6.0\InheritenceTask.pdb
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.AssemblyInfo.cs
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.dll
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\refint\InheritenceTask.dll
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.pdb
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\InheritenceTask.genruntimeconfig.cache
+C:\Users\rusla\source\repos\InheritenceTask\InheritenceTask\obj\Debug\net6.0\ref\InheritenceTask.dll
