@@ -8,7 +8,7 @@ namespace InheritenceTask
 {
     internal class ExpertDocumentProgram : ProDocumentProgram
     {
-        public override void EditDocument()
+        public override void SaveDocument()
         {
             Console.WriteLine("Document Saved in pdf format");
         }
